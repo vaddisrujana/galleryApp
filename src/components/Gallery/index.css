@@ -1,0 +1,14 @@
+.background2 {
+  display: flex;
+}
+.background {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 60vh;
+  width: 60vw;
+}
